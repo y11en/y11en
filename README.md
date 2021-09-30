@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ![y11en's github stats](https://github-readme-stats.vercel.app/api?username=y11en&show_icons=true)
 
 
-#### Visitors (Since 2020/10/25)
+#### Visitors (Since 2021/09/30)
 <div>
 <img align="left" src="https://count.getloli.com/get/@y11en?theme=gelbooru">
 </div>
