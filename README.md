@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 
 #### Visitors (Since 2021/09/30)
 <div>
-<img align="left" src="https://count.getloli.com/get/@y11en?theme=gelbooru">
+<img align="left" src="https://count.getloli.com/get/@y11en?theme=asoul">
 </div>
