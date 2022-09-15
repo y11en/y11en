@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![y11en's github stats](https://github-readme-stats.vercel.app/api?username=y11en&show_icons=true)
+![y11en's github stats](https://github-readme-stats.vercel.app/api?username=y11en&show_icons=false)
 
 
 #### Visitors (Since 2021/09/30)
